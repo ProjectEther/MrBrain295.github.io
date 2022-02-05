@@ -18,8 +18,9 @@
   },
   "homepage": "https://github.com/MrBrain295/MrBrain295.github.io#readme",
   "devDependencies": {
-    "@parcel/watcher": "^2.0.5",
-    "parcel": "^2.2.1",
-    "particle.js": "^1.0.7"
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "particles.js": "^2.0.0"
   }
 }
