@@ -1,4 +1,5 @@
 body {
+  font-family: 'Oswald', sans-serif, Arial, Helvetica;
   margin: 25px;
   padding: 25px;
   padding-left: 160px;
@@ -9,6 +10,8 @@ body {
   align-items: center;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@355&display=swap');
+
 #sidebar {
   height: 100%;
   width: 160px;
@@ -16,7 +19,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: rgb(80, 77, 77);
   overflow-x: hidden;
   padding-top: 20px;
 }
